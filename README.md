@@ -1,5 +1,4 @@
-# Cryptoment - The Cryptocurrency Sentiment Analysis
-# Cryptocurrency Sentiment Analysis
+# Cryptoment - The Cryptocurrency Sentiment Analyser
 
 The aim of this project is to produce a Twitter Sentiment Analysis on the cryptocurrency market. With the rise in popularity of Bitcoin and Ethereum and the majority of  businesses moving to the web3.0 it is important to understand how the consumer actually feels about this change.
 Cryptoment analyzes most recent and relevant tweets related to crypto trading with the help of cardiffnlp/twitter-roberta-base-sentiment-latest model which is a RoBERTa based NLP model from hugging face; and rates it a negative, neutral, or positive sentiment accordingly.
