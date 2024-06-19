@@ -19,7 +19,7 @@ Cryptoment analyzes most recent and relevant tweets related to crypto trading wi
 
 ## Result 
 
-![Histogram showing the `Sentiment Scores` plotted against `The Number of Tweets` ](https://github.com/dynamicdhxx/cryptoment/main/Result.png)
+![Histogram showing the `Sentiment Scores` plotted against `The Number of Tweets` ](https://github.com/dynamicdhxx/cryptoment/blob/main/Result.png)
 
 Here, the `Sentiment Scores` have been plotted against `The Number Of Tweets`.
 
